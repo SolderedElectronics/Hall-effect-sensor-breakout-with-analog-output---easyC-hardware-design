@@ -424,3 +424,33 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Fuel gauge BQ27441 breakout to Fuel-gauge-BQ27441-breakout-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Senzori-blue/Hall effect sensor breakout with analog output & easyC/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 62a4310] Updating open source files.
+ 1 file changed, 31 insertions(+)
+https://github.com/SolderedElectronics/Hall-effect-sensor-breakout-with-analog-output---easyC-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Enviromental & air quality sensor BME680 breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of steps 0
+ - Wrong number of zips 0
+ - Wrong number of csv 0
+ - Wrong number of html 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Enviromental sensor BME280 breakout/OUTPUTS/V1.1.1: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of jpgs 0
+ - Wrong number of steps 0
+ - Wrong number of zips 0
+ - Wrong number of csv 0
+ - Wrong number of html 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Pressure & temperature sensor BMP180 breakout/OUTPUTS/V1.2.2: missing files in OUTPUTS
+ - Wrong number of pdfs 0
+ - Wrong number of steps 0
+/volume1/SOLDERED products/Soldered products/Senzori-blue/Fuel gauge BQ27441 breakout/OUTPUTS/V1.0.0: all files are present, commiting...
+Fuel-gauge-BQ27441-breakout-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Senzori-blue/Fuel gauge BQ27441 breakout to Fuel-gauge-BQ27441-breakout-hardware-design
